@@ -1,5 +1,4 @@
 * ✉️  You can contact me at [proy4r@mail.ru](mailto:proy4r@mail.ru)
-* 🧠  I'm learning javascript
 
 <a href="https://www.github.com/RoloWinson" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RoloWinson?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
